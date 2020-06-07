@@ -1,0 +1,20 @@
+{
+  "name": "suupen_MY9221",
+  "description": "MY9221(LED driver IC) driver",
+  "keywords": "MY9221 LED",
+  "authors": {
+    "name": "suupen",
+    "url": "https://github.com/suupen",
+    "maintainer": true
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/suupen/suupen_MY9221"
+  },
+  "version": "1.0.0",
+  "framework": "arduino",
+  "platforms": "xiao",
+  "build": {
+    "libArchive": false
+  }
+}

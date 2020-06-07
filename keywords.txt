@@ -1,0 +1,81 @@
+#######################################
+# Syntax Coloring Map Sample library
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+dataSet_t	KEYWORD1
+commandData_t	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+commandRawSet	KEYWORD2
+commandSet	KEYWORD2
+dataRawSet	KEYWORD2
+dataSet	KEYWORD2
+refresh	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+LOUT_SLOW_MODE	LITERAL1
+LOUT_FAST_MODE	LITERAL1
+slow	LITERAL1
+fast	LITERAL1
+
+GRAYSCALE_8BIT	LITERAL1
+GRAYSCALE_12BIT	LITERAL1
+GRAYSCALE_14BIT	LITERAL1
+GRAYSCALE_16BIT	LITERAL1
+bit8	LITERAL1
+bit12	LITERAL1
+bit14	LITERAL1
+bit16	LITERAL1
+
+ORIGINAL_FREQ1	LITERAL1
+ORIGINAL_FREQ2	LITERAL1
+ORIGINAL_FREQ4	LITERAL1
+ORIGINAL_FREQ8	LITERAL1
+ORIGINAL_FREQ16	LITERAL1
+ORIGINAL_FREQ64	LITERAL1
+ORIGINAL_FREQ128	LITERAL1
+freq1	LITERAL1
+freq2	LITERAL1
+freq4	LITERAL1
+freq8	LITERAL1
+freq16	LITERAL1
+freq64	LITERAL1
+freq128	LITERAL1
+freq256	LITERAL1
+
+WAVE_MYPWM	LITERAL1
+WAVE_APDM	LITERAL1
+waveMypwm	LITERAL1
+waveApdm	LITERAL1
+
+
+GCLOCK_INTERNAL	LITERAL1
+GCLOCK_EXTERNAL	LITERAL1
+internal	LITERAL1
+external	LITERAL1
+
+WORK_LED	LITERAL1
+WORK_MYPWM	LITERAL1
+workLed	LITERAL1
+workMypwm	LITERAL1
+
+
+COUNTER_FREE	LITERAL1
+COUNTER_RESET	LITERAL1
+freeMode	LITERAL1
+resetMode	LITERAL1
+
+SHOT_REPEAT	LITERAL1
+SHOT_SHOT	LITERAL1
+repeatMode	LITERAL1
+shotMode	LITERAL1
+
+
+
