@@ -4,11 +4,11 @@
 // arduinoでは割り込み禁止許可は不要だったので指示しない
 // 割り込み禁止命令
 #define DISABLE_IRQ()                 // arduino
-#define DISABLE_IRQ() __disable_irq() // mbed
+//#define DISABLE_IRQ() __disable_irq() // mbed
 
 // 割り込み許可命令
 #define ENABLE_IRQ()                  // arduino
-#define ENABLE_IRQ() __enable_irq()   // mbed
+//#define ENABLE_IRQ() __enable_irq()   // mbed
 
 /**
  *
